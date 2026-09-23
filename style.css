@@ -21,3 +21,12 @@ h1 {
 #task-list {
     margin-top: 30px;
 }
+#task-list {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+#task-list li {
+    margin: 10px 0;
+}
